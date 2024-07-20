@@ -49,6 +49,7 @@ p{
 body{
      display: grid;
      place-items:center;
+     grid-template-rows: 95% 1fr;
      height:100vh;
  }
 main{
